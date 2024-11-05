@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+    <!-- Background -->
+    <rect width="1200" height="800" fill="#000000"/>
+    
+    <!-- Labels -->
+    <text x="600" y="30" fill="#ffffff" font-family="monospace" font-size="18" text-anchor="middle">Alfarroba Colorscheme</text>
+    
+    <!-- Main Colors Section -->
+    <text x="50" y="70" fill="#ffffff" font-family="monospace" font-size="14">Main Colors</text>
+    <g transform="translate(50, 90)">
+        <!-- Red -->
+        <rect x="0" y="0"    width="100"    height="60" fill="#c65f5f"/>
+        <text x="0" y="80"   fill="#ffffff"             font-family="monospace" font-size="12">Red</text>
+        <text x="0" y="95"   fill="#ffffff"             font-family="monospace" font-size="10">#c65f5f</text>
+        
+        <!-- Orange -->
+        <rect x="120" y="0"  width="100"    height="60" fill="#d08b65"/>
+        <text x="120" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Orange</text>
+        <text x="120" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#d08b65</text>
+        
+        <!-- Beige -->
+        <rect x="240" y="0"  width="100"    height="60" fill="#ab9382"/>
+        <text x="240" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Beige</text>
+        <text x="240" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#ab9382</text>
+        
+        <!-- Yellow -->
+        <rect x="360" y="0"  width="100"    height="60" fill="#d9b27c"/>
+        <text x="360" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Yellow</text>
+        <text x="360" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#d9b27c</text>
+        
+        <!-- Green -->
+        <rect x="480" y="0"  width="100"    height="60" fill="#859e82"/>
+        <text x="480" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Green</text>
+        <text x="480" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#859e82</text>
+        
+        <!-- Aqua -->
+        <rect x="600" y="0"  width="100"    height="60" fill="#829e9b"/>
+        <text x="600" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Aqua</text>
+        <text x="600" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#829e9b</text>
+        
+        <!-- Blue -->
+        <rect x="720" y="0"  width="100"    height="60" fill="#728797"/>
+        <text x="720" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Blue</text>
+        <text x="720" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#728797</text>
+        
+        <!-- Purple -->
+        <rect x="840" y="0"  width="100"    height="60" fill="#998396"/>
+        <text x="840" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Purple</text>
+        <text x="840" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#998396</text>
+    </g>
+    
+    <!-- Text Colors Section -->
+    <text x="50" y="220" fill="#ffffff" font-family="monospace" font-size="14">Text Colors</text>
+    <g transform="translate(50, 240)">
+        <!-- Text -->
+        <rect x="0" y="0" width="150" height="60" fill="#c8baa4"/>
+        <text x="0" y="80" fill="#ffffff" font-family="monospace" font-size="12">Text</text>
+        <text x="0" y="95" fill="#ffffff" font-family="monospace" font-size="10">#c8baa4</text>
+        
+        <!-- Subtext2 -->
+        <rect x="170" y="0" width="150" height="60" fill="#d7cdbc"/>
+        <text x="170" y="80" fill="#ffffff" font-family="monospace" font-size="12">Subtext2</text>
+        <text x="170" y="95" fill="#ffffff" font-family="monospace" font-size="10">#d7cdbc</text>
+        
+        <!-- Subtext1 -->
+        <rect x="340" y="0" width="150" height="60" fill="#e6dfd5"/>
+        <text x="340" y="80" fill="#ffffff" font-family="monospace" font-size="12">Subtext1</text>
+        <text x="340" y="95" fill="#ffffff" font-family="monospace" font-size="10">#e6dfd5</text>
+        
+        <!-- Subtext0 -->
+        <rect x="510" y="0" width="150" height="60" fill="#f4f2ed"/>
+        <text x="510" y="80" fill="#ffffff" font-family="monospace" font-size="12">Subtext0</text>
+        <text x="510" y="95" fill="#ffffff" font-family="monospace" font-size="10">#f4f2ed</text>
+    </g>
+    
+    <!-- Surface Colors Section -->
+    <text x="50" y="370" fill="#ffffff" font-family="monospace" font-size="14">Surface Colors</text>
+    <g transform="translate(50, 390)">
+        <!-- Base -->
+        <rect x="0" y="0" width="150" height="60" fill="#252221"/>
+        <text x="0" y="80" fill="#ffffff" font-family="monospace" font-size="12">Base</text>
+        <text x="0" y="95" fill="#ffffff" font-family="monospace" font-size="10">#252221</text>
+        
+        <!-- Surface0 -->
+        <rect x="170" y="0" width="150" height="60" fill="#302c2b"/>
+        <text x="170" y="80" fill="#ffffff" font-family="monospace" font-size="12">Surface0</text>
+        <text x="170" y="95" fill="#ffffff" font-family="monospace" font-size="10">#302c2b</text>
+        
+        <!-- Surface1 -->
+        <rect x="340" y="0" width="150" height="60" fill="#3d3837"/>
+        <text x="340" y="80" fill="#ffffff" font-family="monospace" font-size="12">Surface1</text>
+        <text x="340" y="95" fill="#ffffff" font-family="monospace" font-size="10">#3d3837</text>
+    
+        <!-- Surface2 -->
+        <rect x="510" y="0"  width="150"    height="60" fill="#413c3a"/>
+        <text x="510" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Surface2</text>
+        <text x="510" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#413c3a</text>
+    </g>
+    
+    <!-- Overlay Colors Section -->
+    <text x="50" y="520" fill="#ffffff" font-family="monospace" font-size="14">Overlay Colors</text>
+    <g transform="translate(50, 540)">
+        <!-- Crust -->
+        <rect x="0" y="0"    width="100"    height="60" fill="#080504"/>
+        <text x="0" y="80"   fill="#ffffff"             font-family="monospace" font-size="12">Crust</text>
+        <text x="0" y="95"   fill="#ffffff"             font-family="monospace" font-size="10">#080504</text>
+    
+        <!-- Mantle -->
+        <rect x="120" y="0"  width="100"    height="60" fill="#141110"/>
+        <text x="120" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Mantle</text>
+        <text x="120" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#141110</text>
+    
+        <!-- Overlay0 -->
+        <rect x="240" y="0"  width="100"    height="60" fill="#534e4c"/>
+        <text x="240" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Overlay0</text>
+        <text x="240" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#534e4c</text>
+    
+        <!-- Overlay1 -->
+        <rect x="360" y="0"  width="100"    height="60" fill="#645f5d"/>
+        <text x="360" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Overlay1</text>
+        <text x="360" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#645f5d</text>
+    
+        <!-- Overlay2 -->
+        <rect x="480" y="0"  width="100"    height="60" fill="#7e7876"/>
+        <text x="480" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Overlay2</text>
+        <text x="480" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#7e7876</text>
+    
+        <!-- Overlay3 -->
+        <rect x="600" y="0"  width="100"    height="60" fill="#979290"/>
+        <text x="600" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Overlay3</text>
+        <text x="600" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#979290</text>
+    
+        <!-- Overlay4 -->
+        <rect x="720" y="0"  width="100"    height="60" fill="#b0acaa"/>
+        <text x="720" y="80" fill="#ffffff"             font-family="monospace" font-size="12">Overlay4</text>
+        <text x="720" y="95" fill="#ffffff"             font-family="monospace" font-size="10">#b0acaa</text>
+    </g>
+</svg>
+
