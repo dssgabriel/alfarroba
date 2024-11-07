@@ -2,7 +2,7 @@
 
 ### Alfarroba
 
-/aɫfɐˈʀobɐ/   
+Noun • /aɫfɐˈʀobɐ/   
 **Botany**: Portuguese word for the edible fruit (pod) of the carob tree. Has a sweet taste and high nutritional value, has a long and cylindrical shape, and turns brown with violet tones as it matures. Mainly cultivated in the Mediterranean Basin and sometimes used as a substitute for chocolate.
 
 ### Design Philosophy
