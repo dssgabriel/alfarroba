@@ -1,0 +1,132 @@
+# Aflarroba https://github.com/dssgabriel/alfarroba
+# Author: Gabriel Dos Santos <dss.gabriel@protonmail.com>
+# License: MIT License
+# -------------------------------------------------------
+
+# User interface
+# --------------
+"ui.background" = { fg = "text", bg = "base" }
+
+"ui.linenr" = "surface0"
+"ui.linenr.selected" = { fg = "yellow", modifiers = ["bold"] }
+
+"ui.cursor" = { modifiers = ["rapid_blink"] }
+"ui.cursor.match" = { bg = "overlay3", modifiers = ["bold", "dim"] }
+"ui.cursor.primary" = { bg = "overlay3", modifiers = ["bold"] }
+
+"ui.cursorline.primary" = { bg = "surface1" }
+"ui.cursorline.secondary" = { bg = "surface2" }
+
+"ui.selection" = { bg = "overlay3" }
+
+"ui.statusline" = { fg = "text", bg = "surface2", modifiers = ["bold"] }
+"ui.statusline.inactive" = { fg = "overlay2", bg = "base", modifiers = ["dim"] }
+"ui.statusline.normal" = { fg = "subtext0", bg = "surface1" }
+"ui.statusline.insert" = { fg = "surface1", bg = "aqua" }
+"ui.statusline.select" = { fg = "surface1", bg = "purple" }
+
+"ui.bufferline" = { fg = "overlay4", bg = "mantle" }
+"ui.bufferline.active" = { fg = "yellow", bg = "base", modifiers = ["bold"] }
+
+"ui.popup" = { bg = "surface2" }
+"ui.window" = {bg = "base" }
+"ui.help" = { bg = "surface2", modifiers = ["bold", "italic"] }
+"ui.highlight" = { fg = "red", bg = "aqua" }
+
+"ui.text" = { fg = "text" }
+"ui.text.focus" = { fg = "yellow", bg = "surface2", modifiers = ["bold"] }
+"ui.text.info" = { fg = "text", bg = "surface2" }
+
+"ui.virtual.ruler" = { bg = "surface2" }
+"ui.virtual.whitespace" = "surface2"
+"ui.virtual.textspace" = "surface2"
+"ui.virtual.indent-guide" = "surface2"
+"ui.virtual.inlay-hint" = { fg = "beige", bg = "surface2", modifiers = ["dim"] }
+
+"ui.menu" = { fg = "text", bg = "surface2" }
+"ui.menu.selected" = { fg = "yellow", bg = "surface0", modifiers = ["bold"] }
+"ui.menu.scroll" = { fg = "yellow", bg = "overlay0" }
+
+"hint" = "aqua"
+"info" = "green"
+"warning" = "yellow"
+"error" = "red"
+"diagnostic.hint" = { underline = { style = "line", color = "aqua" } }
+"diagnostic.info" = { underline = { style = "line", color = "green" } }
+"diagnostic.warning" = { underline = { style = "line", color = "yellow" } }
+"diagnostic.error" = { underline = { style = "line", color = "red" } }
+"diagnostic" = "purple"
+
+# Syntax highlighting
+# -----------------------------------------------------------------------------
+"markup.heading" = "red"
+"markup.list" = { fg = "green", modifiers = ["italic"] }
+"markup.bold" = { fg = "yellow", modifiers = ["bold"] }
+"markup.italic" = { fg = "yellow", modifiers = ["italic"] }
+"markup.link.text" = "blue"
+"markup.link.url" = { fg = "aqua", modifiers = [ "underlined" ] }
+"markup.quote" = { fg = "beige", modifiers = ["italic"] }
+"markup.raw" = "overlay3"
+
+"keyword" = "red"
+"keyword.directive" = "purple"
+"keyword.operator" = "aqua"
+"keyword.storage.type" = "red"
+"keyword.storage.modifier" = "aqua"
+
+"namespace" = "beige"
+"type" = "yellow"
+"constructor" = "blue"
+"attribute" = "purple"
+
+"function.macro" = "purple"
+"function.special" = "aqua"
+"function" = "blue"
+
+"variable" = "text"
+"variable.builtin" = "orange"
+"variable.other" = "purple"
+"variable.parameter" = "green"
+
+"string" = "green"
+"string.url" = { fg = "aqua", modifiers = ["italic", "underlined"] }
+
+"constant" = "orange"
+"label" = "purple"
+"tag" = "beige"
+"comment" = "overlay4"
+"operator" = "text"
+"punctuation" = "text"
+"escape" = { fg = "surface0", bg = "surface0" }
+
+"diff" = "overlay4"
+"diff.plus" = "green"
+"diff.minus" = "red"
+"diff.delta" = "yellow"
+
+# Color palette
+# -----------------------------------------------------------------------------
+[palette]
+red      = "#c65f5f"
+orange   = "#d08b65"
+beige    = "#ab9382"
+yellow   = "#d9b27c"
+green    = "#859e82"
+aqua     = "#829e9b"
+blue     = "#728797"
+purple   = "#998396"
+text     = "#c8baa4"
+subtext0 = "#d1c6b4"
+subtext1 = "#cdc0ad"
+subtext2 = "#beae94"
+overlay0 = "#b0acaa"
+overlay1 = "#979290"
+overlay2 = "#7e7876"
+overlay3 = "#645f5d"
+overlay4 = "#534e4c"
+surface0 = "#413c3a"
+surface1 = "#3d3837"
+surface2 = "#302c2b"
+base     = "#252221"
+mantle   = "#1b1818"
+crust    = "#141110"

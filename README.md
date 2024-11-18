@@ -49,6 +49,6 @@ If you would like to port Alfarroba to currently unsupported programs, feel free
 ### Ports
 
 Alfarroba has currently been ported to the following programs:
-- [Ghostty]()
-- [Helix]()
+- [Ghostty](ports/ghostty/alfarroba)
+- [Helix](ports/helix/alfarroba.toml)
 

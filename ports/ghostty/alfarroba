@@ -1,0 +1,21 @@
+# Alfarroba Theme
+# ---------------
+background = #252221
+foreground = #c8baa4
+palette  = 0=#111111
+palette  = 8=#413c3a
+palette  = 1=#c65f5f
+palette  = 9=#ff8f8f
+palette  = 2=#859e82
+palette  = 10=#aedfaa
+palette  = 3=#d9b27c
+palette  = 11=#ffe2aa
+palette  = 4=#728797
+palette  = 12=#99c1e6
+palette  = 5=#998396
+palette  = 13=#d7b7d4
+palette  = 6=#829e9b
+palette  = 14=#a8e6e2
+palette  = 7=#f5f5f5
+palette  = 15=#ffffff
+
